@@ -1,0 +1,11 @@
+{
+  "name": "fem_react_v4",
+  "version": "1.0.0",
+  "description": "front end masters project adopt me with react v4 by Brian Holt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alyson Race",
+  "license": "ISC"
+}
