@@ -4,8 +4,12 @@
   "description": "front end masters project adopt me with react v4 by Brian Holt",
   "main": "index.js",
   "scripts": {
+    "format": "prettier --write \"src/**/*.{js,jsx}\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Alyson Race",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
 }
